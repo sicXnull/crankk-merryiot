@@ -20,7 +20,7 @@ Download Crankk Installer
  
 
 - Log into the Local Dashboard
-  - http://<gatewayIP>:/17080
+  - http://gatewayIP:/17080
   - Username: admin
   - Password: Last 6 symbols of MAC Address (ex. B163B9)
   - Can change password in settings tab
