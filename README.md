@@ -28,7 +28,7 @@ Download Crankk Installer
 - Follow the rest of the instructions for Panther X1/X2
   - [Panther Instructions](https://crankk.io/storage/2023/08/Panther-X1-X2-1.pdf) 
   - Continue at step #7
-  - After install, stop the Browan packet-forwarder to use Crankk packet-forwarder `sudo systemctl stop lora_pkt_fwd.service` & `sudo systemctl disable lora_pkt_fwd.service`
+  - After install, stop the Browan packet-forwarder to use Crankk packet-forwarder `sudo systemctl stop lora_pkt_fwd.service` and `sudo systemctl disable lora_pkt_fwd.service`
 
 
 
