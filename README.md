@@ -2,8 +2,12 @@
 
 Follow Instructions on this YouTube video to gain SSH Access. 
 
-- [Youtube Video](https://www.youtube.com/watch?v=bkl76iK-WAo) 
-- [Google Drive Link](https://drive.google.com/drive/folders/1xxxJP7udmXkyyLGqBmzz7l15Ing898cl) 
+Browan Devices
+  - [Youtube Video](https://www.youtube.com/watch?v=bkl76iK-WAo) 
+  - [Google Drive Link](https://drive.google.com/drive/folders/1xxxJP7udmXkyyLGqBmzz7l15Ing898cl) 
+
+PantherX2 Devices
+  - [SSH Instructions](https://github.com/sicXnull/pantherx2_merryiot) 
 
 
 ## Crankk Install
