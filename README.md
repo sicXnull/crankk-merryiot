@@ -20,7 +20,7 @@ Download Crankk Installer
   - Type In Gateway IP
   - Default Port is 168
   - Username: root
-  - Password: Password generated when you enabled SSH
+  - Password: password
  
 
 - Log into the Local Dashboard
