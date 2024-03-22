@@ -2,6 +2,8 @@
 
 Follow Instructions on this YouTube video to gain SSH Access. 
 
+Keep in mind, this is not officially supported by Crankk, do not open support tickets with them if you have issues. 
+
 Browan Devices
   - [Youtube Video](https://www.youtube.com/watch?v=bkl76iK-WAo) 
   - [Google Drive Link](https://drive.google.com/drive/folders/1xxxJP7udmXkyyLGqBmzz7l15Ing898cl) 
