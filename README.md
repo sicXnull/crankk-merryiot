@@ -30,7 +30,7 @@ Download Crankk Installer
   - Can change password in settings tab
 
 - Follow the rest of the instructions for Panther X1/X2
-  - [Panther Instructions](https://crankk.io/storage/2023/08/Panther-X1-X2-1.pdf) 
+  - [Panther Instructions](https://crankk.io/crankk-official-guide-for-onboarding-a-panther-x1-x2-gateway/) 
   - Continue at step #7
   - After install, stop the Browan packet-forwarder to use Crankk packet-forwarder `sudo systemctl stop lora_pkt_fwd.service` and `sudo systemctl disable lora_pkt_fwd.service`
 
